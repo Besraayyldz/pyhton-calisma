@@ -39,5 +39,5 @@ else:
 #pass dedigimizde iceri girer ama bisey dondurmez
 if x>y:
     pass
-
+ 
 

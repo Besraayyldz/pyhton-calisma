@@ -65,7 +65,7 @@ names=["mert yilmaz","ayse yilmaz"]
 for i in sayi:
     for j in names:
         print(i,j)
-
+ 
 
 
 

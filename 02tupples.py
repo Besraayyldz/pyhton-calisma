@@ -24,3 +24,5 @@ print(u)
 print(u.count(1)) #tupplerdeki bir degerin kac kere gectigini sayar
 print(u.index(93)) #tupplerdeki bir degerin ilk gectigi indexi verir
 
+ 
+  
