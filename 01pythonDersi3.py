@@ -5,6 +5,7 @@ olarak degerlendirilebilir
 bumada cok satirli yorum diyebiliriz
 
 """
+#yorum satirina almak istedigin metni secip ctrl / tiklarsan hepsini yprum yapar
 #OPERATORLER
 #Aritmetik operatorler= +  _  *  /  %  **  //
 # matematik islemlerimi yapabildigimiz operatorler
