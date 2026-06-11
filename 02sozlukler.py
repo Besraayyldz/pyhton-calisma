@@ -8,6 +8,7 @@ x={"ad":"mert",
 print(x)
 print(type(x))#dictionart yani sozluk oldugunu goruruz
 
+
 #elemanlara erismek
 y=x["ad"]
 print(y)
